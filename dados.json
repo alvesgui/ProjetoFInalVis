@@ -1,0 +1,3242 @@
+[
+  {
+    "": 0,
+    "cod": 4,
+    "nome": "S",
+    "período": 2000,
+    "valor": 2750,
+    "classe": "HNN",
+    "taxa": 25.8
+  },
+  {
+    "": 1,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2000,
+    "valor": 1082,
+    "classe": "HNN",
+    "taxa": 17.05
+  },
+  {
+    "": 2,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2000,
+    "valor": 11335,
+    "classe": "HNN",
+    "taxa": 48.65
+  },
+  {
+    "": 3,
+    "cod": 1,
+    "nome": "N",
+    "período": 2000,
+    "valor": 365,
+    "classe": "HNN",
+    "taxa": 32.47
+  },
+  {
+    "": 4,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2000,
+    "valor": 928,
+    "classe": "HNN",
+    "taxa": 38.1
+  },
+  {
+    "": 5,
+    "cod": 4,
+    "nome": "S",
+    "período": 2001,
+    "valor": 3131,
+    "classe": "HNN",
+    "taxa": 28.87
+  },
+  {
+    "": 6,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2001,
+    "valor": 1182,
+    "classe": "HNN",
+    "taxa": 18.26
+  },
+  {
+    "": 7,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2001,
+    "valor": 11502,
+    "classe": "HNN",
+    "taxa": 48.66
+  },
+  {
+    "": 8,
+    "cod": 1,
+    "nome": "N",
+    "período": 2001,
+    "valor": 449,
+    "classe": "HNN",
+    "taxa": 37.92
+  },
+  {
+    "": 9,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2001,
+    "valor": 934,
+    "classe": "HNN",
+    "taxa": 38.52
+  },
+  {
+    "": 10,
+    "cod": 4,
+    "nome": "S",
+    "período": 2002,
+    "valor": 3442,
+    "classe": "HNN",
+    "taxa": 31.9
+  },
+  {
+    "": 11,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2002,
+    "valor": 1108,
+    "classe": "HNN",
+    "taxa": 16.29
+  },
+  {
+    "": 12,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2002,
+    "valor": 11286,
+    "classe": "HNN",
+    "taxa": 47.57
+  },
+  {
+    "": 13,
+    "cod": 1,
+    "nome": "N",
+    "período": 2002,
+    "valor": 478,
+    "classe": "HNN",
+    "taxa": 39.44
+  },
+  {
+    "": 14,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2002,
+    "valor": 1008,
+    "classe": "HNN",
+    "taxa": 39.49
+  },
+  {
+    "": 15,
+    "cod": 4,
+    "nome": "S",
+    "período": 2003,
+    "valor": 3720,
+    "classe": "HNN",
+    "taxa": 34.53
+  },
+  {
+    "": 16,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2003,
+    "valor": 1155,
+    "classe": "HNN",
+    "taxa": 17.72
+  },
+  {
+    "": 17,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2003,
+    "valor": 11275,
+    "classe": "HNN",
+    "taxa": 47.83
+  },
+  {
+    "": 18,
+    "cod": 1,
+    "nome": "N",
+    "período": 2003,
+    "valor": 435,
+    "classe": "HNN",
+    "taxa": 36.06
+  },
+  {
+    "": 19,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2003,
+    "valor": 930,
+    "classe": "HNN",
+    "taxa": 37.27
+  },
+  {
+    "": 20,
+    "cod": 4,
+    "nome": "S",
+    "período": 2004,
+    "valor": 3871,
+    "classe": "HNN",
+    "taxa": 35.21
+  },
+  {
+    "": 21,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2004,
+    "valor": 958,
+    "classe": "HNN",
+    "taxa": 14.03
+  },
+  {
+    "": 22,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2004,
+    "valor": 9555,
+    "classe": "HNN",
+    "taxa": 40.75
+  },
+  {
+    "": 23,
+    "cod": 1,
+    "nome": "N",
+    "período": 2004,
+    "valor": 444,
+    "classe": "HNN",
+    "taxa": 28.88
+  },
+  {
+    "": 24,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2004,
+    "valor": 991,
+    "classe": "HNN",
+    "taxa": 39.15
+  },
+  {
+    "": 25,
+    "cod": 4,
+    "nome": "S",
+    "período": 2005,
+    "valor": 3931,
+    "classe": "HNN",
+    "taxa": 36.39
+  },
+  {
+    "": 26,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2005,
+    "valor": 1113,
+    "classe": "HNN",
+    "taxa": 16.24
+  },
+  {
+    "": 27,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2005,
+    "valor": 8025,
+    "classe": "HNN",
+    "taxa": 35.13
+  },
+  {
+    "": 28,
+    "cod": 1,
+    "nome": "N",
+    "período": 2005,
+    "valor": 454,
+    "classe": "HNN",
+    "taxa": 29.13
+  },
+  {
+    "": 29,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2005,
+    "valor": 899,
+    "classe": "HNN",
+    "taxa": 34.41
+  },
+  {
+    "": 30,
+    "cod": 4,
+    "nome": "S",
+    "período": 2006,
+    "valor": 4222,
+    "classe": "HNN",
+    "taxa": 39.54
+  },
+  {
+    "": 31,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2006,
+    "valor": 1111,
+    "classe": "HNN",
+    "taxa": 16.17
+  },
+  {
+    "": 32,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2006,
+    "valor": 7846,
+    "classe": "HNN",
+    "taxa": 33.86
+  },
+  {
+    "": 33,
+    "cod": 1,
+    "nome": "N",
+    "período": 2006,
+    "valor": 453,
+    "classe": "HNN",
+    "taxa": 28.45
+  },
+  {
+    "": 34,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2006,
+    "valor": 879,
+    "classe": "HNN",
+    "taxa": 33.05
+  },
+  {
+    "": 35,
+    "cod": 4,
+    "nome": "S",
+    "período": 2007,
+    "valor": 4244,
+    "classe": "HNN",
+    "taxa": 39.49
+  },
+  {
+    "": 36,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2007,
+    "valor": 1105,
+    "classe": "HNN",
+    "taxa": 15.9
+  },
+  {
+    "": 37,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2007,
+    "valor": 6473,
+    "classe": "HNN",
+    "taxa": 28.01
+  },
+  {
+    "": 38,
+    "cod": 1,
+    "nome": "N",
+    "período": 2007,
+    "valor": 388,
+    "classe": "HNN",
+    "taxa": 22.45
+  },
+  {
+    "": 39,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2007,
+    "valor": 939,
+    "classe": "HNN",
+    "taxa": 36.27
+  },
+  {
+    "": 40,
+    "cod": 4,
+    "nome": "S",
+    "período": 2008,
+    "valor": 4698,
+    "classe": "HNN",
+    "taxa": 43.39
+  },
+  {
+    "": 41,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2008,
+    "valor": 1319,
+    "classe": "HNN",
+    "taxa": 18.51
+  },
+  {
+    "": 42,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2008,
+    "valor": 6079,
+    "classe": "HNN",
+    "taxa": 26.69
+  },
+  {
+    "": 43,
+    "cod": 1,
+    "nome": "N",
+    "período": 2008,
+    "valor": 426,
+    "classe": "HNN",
+    "taxa": 26.89
+  },
+  {
+    "": 44,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2008,
+    "valor": 947,
+    "classe": "HNN",
+    "taxa": 35.11
+  },
+  {
+    "": 45,
+    "cod": 4,
+    "nome": "S",
+    "período": 2009,
+    "valor": 4892,
+    "classe": "HNN",
+    "taxa": 44.99
+  },
+  {
+    "": 46,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2009,
+    "valor": 1253,
+    "classe": "HNN",
+    "taxa": 18.15
+  },
+  {
+    "": 47,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2009,
+    "valor": 6062,
+    "classe": "HNN",
+    "taxa": 26.39
+  },
+  {
+    "": 48,
+    "cod": 1,
+    "nome": "N",
+    "período": 2009,
+    "valor": 445,
+    "classe": "HNN",
+    "taxa": 27.17
+  },
+  {
+    "": 49,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2009,
+    "valor": 955,
+    "classe": "HNN",
+    "taxa": 35.05
+  },
+  {
+    "": 50,
+    "cod": 4,
+    "nome": "S",
+    "período": 2010,
+    "valor": 4604,
+    "classe": "HNN",
+    "taxa": 42.2
+  },
+  {
+    "": 51,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2010,
+    "valor": 1250,
+    "classe": "HNN",
+    "taxa": 17.89
+  },
+  {
+    "": 52,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2010,
+    "valor": 5549,
+    "classe": "HNN",
+    "taxa": 17.9
+  },
+  {
+    "": 53,
+    "cod": 1,
+    "nome": "N",
+    "período": 2010,
+    "valor": 538,
+    "classe": "HNN",
+    "taxa": 30.89
+  },
+  {
+    "": 54,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2010,
+    "valor": 889,
+    "classe": "HNN",
+    "taxa": 17.91
+  },
+  {
+    "": 55,
+    "cod": 4,
+    "nome": "S",
+    "período": 2011,
+    "valor": 4471,
+    "classe": "HNN",
+    "taxa": 17.95
+  },
+  {
+    "": 56,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2011,
+    "valor": 1381,
+    "classe": "HNN",
+    "taxa": 17.96
+  },
+  {
+    "": 57,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2011,
+    "valor": 5389,
+    "classe": "HNN",
+    "taxa": 17.92
+  },
+  {
+    "": 58,
+    "cod": 1,
+    "nome": "N",
+    "período": 2011,
+    "valor": 551,
+    "classe": "HNN",
+    "taxa": 17.94
+  },
+  {
+    "": 59,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2011,
+    "valor": 927,
+    "classe": "HNN",
+    "taxa": 17.93
+  },
+  {
+    "": 60,
+    "cod": 4,
+    "nome": "S",
+    "período": 2012,
+    "valor": 4578,
+    "classe": "HNN",
+    "taxa": 17.1
+  },
+  {
+    "": 61,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2012,
+    "valor": 1390,
+    "classe": "HNN",
+    "taxa": 17.101
+  },
+  {
+    "": 62,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2012,
+    "valor": 5668,
+    "classe": "HNN",
+    "taxa": 17.98
+  },
+  {
+    "": 63,
+    "cod": 1,
+    "nome": "N",
+    "período": 2012,
+    "valor": 583,
+    "classe": "HNN",
+    "taxa": 17.99
+  },
+  {
+    "": 64,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2012,
+    "valor": 1008,
+    "classe": "HNN",
+    "taxa": 17.97
+  },
+  {
+    "": 65,
+    "cod": 4,
+    "nome": "S",
+    "período": 2013,
+    "valor": 4280,
+    "classe": "HNN",
+    "taxa": 17.104
+  },
+  {
+    "": 66,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2013,
+    "valor": 1434,
+    "classe": "HNN",
+    "taxa": 17.106
+  },
+  {
+    "": 67,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2013,
+    "valor": 5444,
+    "classe": "HNN",
+    "taxa": 17.102
+  },
+  {
+    "": 68,
+    "cod": 1,
+    "nome": "N",
+    "período": 2013,
+    "valor": 648,
+    "classe": "HNN",
+    "taxa": 17.105
+  },
+  {
+    "": 69,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2013,
+    "valor": 1061,
+    "classe": "HNN",
+    "taxa": 17.103
+  },
+  {
+    "": 70,
+    "cod": 4,
+    "nome": "S",
+    "período": 2014,
+    "valor": 4626,
+    "classe": "HNN",
+    "taxa": 17.109
+  },
+  {
+    "": 71,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2014,
+    "valor": 1633,
+    "classe": "HNN",
+    "taxa": 17.107
+  },
+  {
+    "": 72,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2014,
+    "valor": 5490,
+    "classe": "HNN",
+    "taxa": 17.111
+  },
+  {
+    "": 73,
+    "cod": 1,
+    "nome": "N",
+    "período": 2014,
+    "valor": 572,
+    "classe": "HNN",
+    "taxa": 17.108
+  },
+  {
+    "": 74,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2014,
+    "valor": 1175,
+    "classe": "HNN",
+    "taxa": 17.11
+  },
+  {
+    "": 75,
+    "cod": 4,
+    "nome": "S",
+    "período": 2015,
+    "valor": 4734,
+    "classe": "HNN",
+    "taxa": 17.113
+  },
+  {
+    "": 76,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2015,
+    "valor": 1554,
+    "classe": "HNN",
+    "taxa": 17.115
+  },
+  {
+    "": 77,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2015,
+    "valor": 4824,
+    "classe": "HNN",
+    "taxa": 17.116
+  },
+  {
+    "": 78,
+    "cod": 1,
+    "nome": "N",
+    "período": 2015,
+    "valor": 596,
+    "classe": "HNN",
+    "taxa": 17.114
+  },
+  {
+    "": 79,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2015,
+    "valor": 1147,
+    "classe": "HNN",
+    "taxa": 17.112
+  },
+  {
+    "": 80,
+    "cod": 4,
+    "nome": "S",
+    "período": 2016,
+    "valor": 4997,
+    "classe": "HNN",
+    "taxa": 17.12
+  },
+  {
+    "": 81,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2016,
+    "valor": 1723,
+    "classe": "HNN",
+    "taxa": 17.118
+  },
+  {
+    "": 82,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2016,
+    "valor": 4847,
+    "classe": "HNN",
+    "taxa": 17.121
+  },
+  {
+    "": 83,
+    "cod": 1,
+    "nome": "N",
+    "período": 2016,
+    "valor": 655,
+    "classe": "HNN",
+    "taxa": 17.117
+  },
+  {
+    "": 84,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2016,
+    "valor": 1132,
+    "classe": "HNN",
+    "taxa": 17.119
+  },
+  {
+    "": 85,
+    "cod": 1,
+    "nome": "N",
+    "período": 2017,
+    "valor": 797,
+    "classe": "HNN",
+    "taxa": 17.124
+  },
+  {
+    "": 86,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2017,
+    "valor": 1873,
+    "classe": "HNN",
+    "taxa": 17.125
+  },
+  {
+    "": 87,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2017,
+    "valor": 4726,
+    "classe": "HNN",
+    "taxa": 17.123
+  },
+  {
+    "": 88,
+    "cod": 4,
+    "nome": "S",
+    "período": 2017,
+    "valor": 4750,
+    "classe": "HNN",
+    "taxa": 17.126
+  },
+  {
+    "": 89,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2017,
+    "valor": 1041,
+    "classe": "HNN",
+    "taxa": 17.122
+  },
+  {
+    "": 90,
+    "cod": 4,
+    "nome": "S",
+    "período": 2000,
+    "valor": 53,
+    "classe": "MN",
+    "taxa": 3.065
+  },
+  {
+    "": 91,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2000,
+    "valor": 478,
+    "classe": "MN",
+    "taxa": 2.741
+  },
+  {
+    "": 92,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2000,
+    "valor": 817,
+    "classe": "MN",
+    "taxa": 6.315
+  },
+  {
+    "": 93,
+    "cod": 1,
+    "nome": "N",
+    "período": 2000,
+    "valor": 138,
+    "classe": "MN",
+    "taxa": 4.169
+  },
+  {
+    "": 94,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2000,
+    "valor": 162,
+    "classe": "MN",
+    "taxa": 5.052
+  },
+  {
+    "": 95,
+    "cod": 4,
+    "nome": "S",
+    "período": 2001,
+    "valor": 48,
+    "classe": "MN",
+    "taxa": 2.737
+  },
+  {
+    "": 96,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2001,
+    "valor": 499,
+    "classe": "MN",
+    "taxa": 2.785
+  },
+  {
+    "": 97,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2001,
+    "valor": 862,
+    "classe": "MN",
+    "taxa": 6.434
+  },
+  {
+    "": 98,
+    "cod": 1,
+    "nome": "N",
+    "período": 2001,
+    "valor": 188,
+    "classe": "MN",
+    "taxa": 5.233
+  },
+  {
+    "": 99,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2001,
+    "valor": 182,
+    "classe": "MN",
+    "taxa": 5.386
+  },
+  {
+    "": 100,
+    "cod": 4,
+    "nome": "S",
+    "período": 2002,
+    "valor": 78,
+    "classe": "MN",
+    "taxa": 3.952
+  },
+  {
+    "": 101,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2002,
+    "valor": 462,
+    "classe": "MN",
+    "taxa": 2.595
+  },
+  {
+    "": 102,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2002,
+    "valor": 869,
+    "classe": "MN",
+    "taxa": 6.391
+  },
+  {
+    "": 103,
+    "cod": 1,
+    "nome": "N",
+    "período": 2002,
+    "valor": 155,
+    "classe": "MN",
+    "taxa": 4.199
+  },
+  {
+    "": 104,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2002,
+    "valor": 192,
+    "classe": "MN",
+    "taxa": 5.707
+  },
+  {
+    "": 105,
+    "cod": 4,
+    "nome": "S",
+    "período": 2003,
+    "valor": 63,
+    "classe": "MN",
+    "taxa": 3.133
+  },
+  {
+    "": 106,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2003,
+    "valor": 505,
+    "classe": "MN",
+    "taxa": 2.729
+  },
+  {
+    "": 107,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2003,
+    "valor": 921,
+    "classe": "MN",
+    "taxa": 6.53
+  },
+  {
+    "": 108,
+    "cod": 1,
+    "nome": "N",
+    "período": 2003,
+    "valor": 178,
+    "classe": "MN",
+    "taxa": 4.629
+  },
+  {
+    "": 109,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2003,
+    "valor": 199,
+    "classe": "MN",
+    "taxa": 5.566
+  },
+  {
+    "": 110,
+    "cod": 4,
+    "nome": "S",
+    "período": 2004,
+    "valor": 74,
+    "classe": "MN",
+    "taxa": 3.738
+  },
+  {
+    "": 111,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2004,
+    "valor": 580,
+    "classe": "MN",
+    "taxa": 3.138
+  },
+  {
+    "": 112,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2004,
+    "valor": 835,
+    "classe": "MN",
+    "taxa": 5.667
+  },
+  {
+    "": 113,
+    "cod": 1,
+    "nome": "N",
+    "período": 2004,
+    "valor": 162,
+    "classe": "MN",
+    "taxa": 2.982
+  },
+  {
+    "": 114,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2004,
+    "valor": 197,
+    "classe": "MN",
+    "taxa": 5.358
+  },
+  {
+    "": 115,
+    "cod": 4,
+    "nome": "S",
+    "período": 2005,
+    "valor": 78,
+    "classe": "MN",
+    "taxa": 3.444
+  },
+  {
+    "": 116,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2005,
+    "valor": 653,
+    "classe": "MN",
+    "taxa": 3.489
+  },
+  {
+    "": 117,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2005,
+    "valor": 835,
+    "classe": "MN",
+    "taxa": 5.25
+  },
+  {
+    "": 118,
+    "cod": 1,
+    "nome": "N",
+    "período": 2005,
+    "valor": 216,
+    "classe": "MN",
+    "taxa": 3.833
+  },
+  {
+    "": 119,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2005,
+    "valor": 197,
+    "classe": "MN",
+    "taxa": 5.307
+  },
+  {
+    "": 120,
+    "cod": 4,
+    "nome": "S",
+    "período": 2006,
+    "valor": 93,
+    "classe": "MN",
+    "taxa": 3.885
+  },
+  {
+    "": 121,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2006,
+    "valor": 773,
+    "classe": "MN",
+    "taxa": 4.076
+  },
+  {
+    "": 122,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2006,
+    "valor": 850,
+    "classe": "MN",
+    "taxa": 5.32
+  },
+  {
+    "": 123,
+    "cod": 1,
+    "nome": "N",
+    "período": 2006,
+    "valor": 221,
+    "classe": "MN",
+    "taxa": 3.908
+  },
+  {
+    "": 124,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2006,
+    "valor": 196,
+    "classe": "MN",
+    "taxa": 5.174
+  },
+  {
+    "": 125,
+    "cod": 4,
+    "nome": "S",
+    "período": 2007,
+    "valor": 76,
+    "classe": "MN",
+    "taxa": 2.998
+  },
+  {
+    "": 126,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2007,
+    "valor": 775,
+    "classe": "MN",
+    "taxa": 4.071
+  },
+  {
+    "": 127,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2007,
+    "valor": 765,
+    "classe": "MN",
+    "taxa": 4.736
+  },
+  {
+    "": 128,
+    "cod": 1,
+    "nome": "N",
+    "período": 2007,
+    "valor": 228,
+    "classe": "MN",
+    "taxa": 4.007
+  },
+  {
+    "": 129,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2007,
+    "valor": 205,
+    "classe": "MN",
+    "taxa": 5.282
+  },
+  {
+    "": 130,
+    "cod": 4,
+    "nome": "S",
+    "período": 2008,
+    "valor": 95,
+    "classe": "MN",
+    "taxa": 3.703
+  },
+  {
+    "": 131,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2008,
+    "valor": 893,
+    "classe": "MN",
+    "taxa": 4.63
+  },
+  {
+    "": 132,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2008,
+    "valor": 772,
+    "classe": "MN",
+    "taxa": 4.541
+  },
+  {
+    "": 133,
+    "cod": 1,
+    "nome": "N",
+    "período": 2008,
+    "valor": 255,
+    "classe": "MN",
+    "taxa": 4.311
+  },
+  {
+    "": 134,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2008,
+    "valor": 240,
+    "classe": "MN",
+    "taxa": 6.066
+  },
+  {
+    "": 135,
+    "cod": 4,
+    "nome": "S",
+    "período": 2009,
+    "valor": 101,
+    "classe": "MN",
+    "taxa": 3.905
+  },
+  {
+    "": 136,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2009,
+    "valor": 944,
+    "classe": "MN",
+    "taxa": 4.792
+  },
+  {
+    "": 137,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2009,
+    "valor": 818,
+    "classe": "MN",
+    "taxa": 4.771
+  },
+  {
+    "": 138,
+    "cod": 1,
+    "nome": "N",
+    "período": 2009,
+    "valor": 298,
+    "classe": "MN",
+    "taxa": 4.93
+  },
+  {
+    "": 139,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2009,
+    "valor": 258,
+    "classe": "MN",
+    "taxa": 6.6
+  },
+  {
+    "": 140,
+    "cod": 4,
+    "nome": "S",
+    "período": 2010,
+    "valor": 104,
+    "classe": "MN",
+    "taxa": 3.946
+  },
+  {
+    "": 141,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2010,
+    "valor": 1085,
+    "classe": "MN",
+    "taxa": 5.461
+  },
+  {
+    "": 142,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2010,
+    "valor": 806,
+    "classe": "MN",
+    "taxa": 4.6
+  },
+  {
+    "": 143,
+    "cod": 1,
+    "nome": "N",
+    "período": 2010,
+    "valor": 346,
+    "classe": "MN",
+    "taxa": 5.694
+  },
+  {
+    "": 144,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2010,
+    "valor": 270,
+    "classe": "MN",
+    "taxa": 6.564
+  },
+  {
+    "": 145,
+    "cod": 4,
+    "nome": "S",
+    "período": 2011,
+    "valor": 81,
+    "classe": "MN",
+    "taxa": 3.017
+  },
+  {
+    "": 146,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2011,
+    "valor": 1178,
+    "classe": "MN",
+    "taxa": 5.88
+  },
+  {
+    "": 147,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2011,
+    "valor": 789,
+    "classe": "MN",
+    "taxa": 4.408
+  },
+  {
+    "": 148,
+    "cod": 1,
+    "nome": "N",
+    "período": 2011,
+    "valor": 323,
+    "classe": "MN",
+    "taxa": 5.289
+  },
+  {
+    "": 149,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2011,
+    "valor": 343,
+    "classe": "MN",
+    "taxa": 8.354
+  },
+  {
+    "": 150,
+    "cod": 4,
+    "nome": "S",
+    "período": 2012,
+    "valor": 125,
+    "classe": "MN",
+    "taxa": 4.41
+  },
+  {
+    "": 151,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2012,
+    "valor": 1128,
+    "classe": "MN",
+    "taxa": 5.473
+  },
+  {
+    "": 152,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2012,
+    "valor": 920,
+    "classe": "MN",
+    "taxa": 4.904
+  },
+  {
+    "": 153,
+    "cod": 1,
+    "nome": "N",
+    "período": 2012,
+    "valor": 403,
+    "classe": "MN",
+    "taxa": 6.366
+  },
+  {
+    "": 154,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2012,
+    "valor": 341,
+    "classe": "MN",
+    "taxa": 7.88
+  },
+  {
+    "": 155,
+    "cod": 4,
+    "nome": "S",
+    "período": 2013,
+    "valor": 108,
+    "classe": "MN",
+    "taxa": 3.559
+  },
+  {
+    "": 156,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2013,
+    "valor": 1182,
+    "classe": "MN",
+    "taxa": 5.894
+  },
+  {
+    "": 157,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2013,
+    "valor": 854,
+    "classe": "MN",
+    "taxa": 4.586
+  },
+  {
+    "": 158,
+    "cod": 1,
+    "nome": "N",
+    "período": 2013,
+    "valor": 378,
+    "classe": "MN",
+    "taxa": 5.693
+  },
+  {
+    "": 159,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2013,
+    "valor": 359,
+    "classe": "MN",
+    "taxa": 8.051
+  },
+  {
+    "": 160,
+    "cod": 4,
+    "nome": "S",
+    "período": 2014,
+    "valor": 135,
+    "classe": "MN",
+    "taxa": 4.484
+  },
+  {
+    "": 161,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2014,
+    "valor": 1203,
+    "classe": "MN",
+    "taxa": 5.956
+  },
+  {
+    "": 162,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2014,
+    "valor": 879,
+    "classe": "MN",
+    "taxa": 4.72
+  },
+  {
+    "": 163,
+    "cod": 1,
+    "nome": "N",
+    "período": 2014,
+    "valor": 397,
+    "classe": "MN",
+    "taxa": 5.82
+  },
+  {
+    "": 164,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2014,
+    "valor": 378,
+    "classe": "MN",
+    "taxa": 8.397
+  },
+  {
+    "": 165,
+    "cod": 4,
+    "nome": "S",
+    "período": 2015,
+    "valor": 122,
+    "classe": "MN",
+    "taxa": 3.955
+  },
+  {
+    "": 166,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2015,
+    "valor": 1168,
+    "classe": "MN",
+    "taxa": 5.722
+  },
+  {
+    "": 167,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2015,
+    "valor": 808,
+    "classe": "MN",
+    "taxa": 4.211
+  },
+  {
+    "": 168,
+    "cod": 1,
+    "nome": "N",
+    "período": 2015,
+    "valor": 457,
+    "classe": "MN",
+    "taxa": 6.64
+  },
+  {
+    "": 169,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2015,
+    "valor": 347,
+    "classe": "MN",
+    "taxa": 7.506
+  },
+  {
+    "": 170,
+    "cod": 4,
+    "nome": "S",
+    "período": 2016,
+    "valor": 121,
+    "classe": "MN",
+    "taxa": 3.62
+  },
+  {
+    "": 171,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2016,
+    "valor": 1249,
+    "classe": "MN",
+    "taxa": 5.767
+  },
+  {
+    "": 172,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2016,
+    "valor": 804,
+    "classe": "MN",
+    "taxa": 3.928
+  },
+  {
+    "": 173,
+    "cod": 1,
+    "nome": "N",
+    "período": 2016,
+    "valor": 475,
+    "classe": "MN",
+    "taxa": 6.974
+  },
+  {
+    "": 174,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2016,
+    "valor": 356,
+    "classe": "MN",
+    "taxa": 7.306
+  },
+  {
+    "": 175,
+    "cod": 1,
+    "nome": "N",
+    "período": 2017,
+    "valor": 517,
+    "classe": "MN",
+    "taxa": 7.541
+  },
+  {
+    "": 176,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2017,
+    "valor": 1524,
+    "classe": "MN",
+    "taxa": 6.946
+  },
+  {
+    "": 177,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2017,
+    "valor": 803,
+    "classe": "MN",
+    "taxa": 3.797
+  },
+  {
+    "": 178,
+    "cod": 4,
+    "nome": "S",
+    "período": 2017,
+    "valor": 117,
+    "classe": "MN",
+    "taxa": 3.344
+  },
+  {
+    "": 179,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2017,
+    "valor": 327,
+    "classe": "MN",
+    "taxa": 6.547
+  },
+  {
+    "": 180,
+    "cod": 4,
+    "nome": "S",
+    "período": 2000,
+    "valor": 324,
+    "classe": "MNN",
+    "taxa": 2.881
+  },
+  {
+    "": 181,
+    "cod": 1,
+    "nome": "N",
+    "período": 2000,
+    "valor": 47,
+    "classe": "MNN",
+    "taxa": 3.595
+  },
+  {
+    "": 182,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2000,
+    "valor": 154,
+    "classe": "MNN",
+    "taxa": 2.074
+  },
+  {
+    "": 183,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2000,
+    "valor": 1111,
+    "classe": "MNN",
+    "taxa": 4.462
+  },
+  {
+    "": 184,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2000,
+    "valor": 129,
+    "classe": "MNN",
+    "taxa": 4.662
+  },
+  {
+    "": 185,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2001,
+    "valor": 112,
+    "classe": "MNN",
+    "taxa": 4.009
+  },
+  {
+    "": 186,
+    "cod": 4,
+    "nome": "S",
+    "período": 2001,
+    "valor": 366,
+    "classe": "MNN",
+    "taxa": 3.198
+  },
+  {
+    "": 187,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2001,
+    "valor": 1032,
+    "classe": "MNN",
+    "taxa": 4.057
+  },
+  {
+    "": 188,
+    "cod": 1,
+    "nome": "N",
+    "período": 2001,
+    "valor": 67,
+    "classe": "MNN",
+    "taxa": 4.825
+  },
+  {
+    "": 189,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2001,
+    "valor": 143,
+    "classe": "MNN",
+    "taxa": 1.886
+  },
+  {
+    "": 190,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2002,
+    "valor": 1058,
+    "classe": "MNN",
+    "taxa": 4.124
+  },
+  {
+    "": 191,
+    "cod": 1,
+    "nome": "N",
+    "período": 2002,
+    "valor": 43,
+    "classe": "MNN",
+    "taxa": 2.97
+  },
+  {
+    "": 192,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2002,
+    "valor": 141,
+    "classe": "MNN",
+    "taxa": 4.887
+  },
+  {
+    "": 193,
+    "cod": 4,
+    "nome": "S",
+    "período": 2002,
+    "valor": 390,
+    "classe": "MNN",
+    "taxa": 3.416
+  },
+  {
+    "": 194,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2002,
+    "valor": 149,
+    "classe": "MNN",
+    "taxa": 1.894
+  },
+  {
+    "": 195,
+    "cod": 4,
+    "nome": "S",
+    "período": 2003,
+    "valor": 394,
+    "classe": "MNN",
+    "taxa": 3.406
+  },
+  {
+    "": 196,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2003,
+    "valor": 128,
+    "classe": "MNN",
+    "taxa": 4.543
+  },
+  {
+    "": 197,
+    "cod": 1,
+    "nome": "N",
+    "período": 2003,
+    "valor": 56,
+    "classe": "MNN",
+    "taxa": 3.988
+  },
+  {
+    "": 198,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2003,
+    "valor": 130,
+    "classe": "MNN",
+    "taxa": 1.732
+  },
+  {
+    "": 199,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2003,
+    "valor": 1062,
+    "classe": "MNN",
+    "taxa": 4.157
+  },
+  {
+    "": 200,
+    "cod": 4,
+    "nome": "S",
+    "período": 2004,
+    "valor": 432,
+    "classe": "MNN",
+    "taxa": 3.695
+  },
+  {
+    "": 201,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2004,
+    "valor": 950,
+    "classe": "MNN",
+    "taxa": 3.72
+  },
+  {
+    "": 202,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2004,
+    "valor": 134,
+    "classe": "MNN",
+    "taxa": 1.696
+  },
+  {
+    "": 203,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2004,
+    "valor": 135,
+    "classe": "MNN",
+    "taxa": 4.652
+  },
+  {
+    "": 204,
+    "cod": 1,
+    "nome": "N",
+    "período": 2004,
+    "valor": 55,
+    "classe": "MNN",
+    "taxa": 3.14
+  },
+  {
+    "": 205,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2005,
+    "valor": 119,
+    "classe": "MNN",
+    "taxa": 1.507
+  },
+  {
+    "": 206,
+    "cod": 1,
+    "nome": "N",
+    "período": 2005,
+    "valor": 62,
+    "classe": "MNN",
+    "taxa": 3.429
+  },
+  {
+    "": 207,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2005,
+    "valor": 889,
+    "classe": "MNN",
+    "taxa": 3.615
+  },
+  {
+    "": 208,
+    "cod": 4,
+    "nome": "S",
+    "período": 2005,
+    "valor": 425,
+    "classe": "MNN",
+    "taxa": 3.665
+  },
+  {
+    "": 209,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2005,
+    "valor": 136,
+    "classe": "MNN",
+    "taxa": 4.543
+  },
+  {
+    "": 210,
+    "cod": 1,
+    "nome": "N",
+    "período": 2006,
+    "valor": 81,
+    "classe": "MNN",
+    "taxa": 4.412
+  },
+  {
+    "": 211,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2006,
+    "valor": 114,
+    "classe": "MNN",
+    "taxa": 3.839
+  },
+  {
+    "": 212,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2006,
+    "valor": 121,
+    "classe": "MNN",
+    "taxa": 1.528
+  },
+  {
+    "": 213,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2006,
+    "valor": 931,
+    "classe": "MNN",
+    "taxa": 3.705
+  },
+  {
+    "": 214,
+    "cod": 4,
+    "nome": "S",
+    "período": 2006,
+    "valor": 394,
+    "classe": "MNN",
+    "taxa": 3.384
+  },
+  {
+    "": 215,
+    "cod": 1,
+    "nome": "N",
+    "período": 2007,
+    "valor": 63,
+    "classe": "MNN",
+    "taxa": 3.189
+  },
+  {
+    "": 216,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2007,
+    "valor": 746,
+    "classe": "MNN",
+    "taxa": 2.959
+  },
+  {
+    "": 217,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2007,
+    "valor": 151,
+    "classe": "MNN",
+    "taxa": 1.849
+  },
+  {
+    "": 218,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2007,
+    "valor": 144,
+    "classe": "MNN",
+    "taxa": 4.848
+  },
+  {
+    "": 219,
+    "cod": 4,
+    "nome": "S",
+    "período": 2007,
+    "valor": 414,
+    "classe": "MNN",
+    "taxa": 3.597
+  },
+  {
+    "": 220,
+    "cod": 4,
+    "nome": "S",
+    "período": 2008,
+    "valor": 502,
+    "classe": "MNN",
+    "taxa": 4.295
+  },
+  {
+    "": 221,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2008,
+    "valor": 747,
+    "classe": "MNN",
+    "taxa": 2.995
+  },
+  {
+    "": 222,
+    "cod": 1,
+    "nome": "N",
+    "período": 2008,
+    "valor": 68,
+    "classe": "MNN",
+    "taxa": 3.629
+  },
+  {
+    "": 223,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2008,
+    "valor": 121,
+    "classe": "MNN",
+    "taxa": 3.957
+  },
+  {
+    "": 224,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2008,
+    "valor": 141,
+    "classe": "MNN",
+    "taxa": 1.739
+  },
+  {
+    "": 225,
+    "cod": 4,
+    "nome": "S",
+    "período": 2009,
+    "valor": 542,
+    "classe": "MNN",
+    "taxa": 4.609
+  },
+  {
+    "": 226,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2009,
+    "valor": 163,
+    "classe": "MNN",
+    "taxa": 2.011
+  },
+  {
+    "": 227,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2009,
+    "valor": 137,
+    "classe": "MNN",
+    "taxa": 4.49
+  },
+  {
+    "": 228,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2009,
+    "valor": 722,
+    "classe": "MNN",
+    "taxa": 2.887
+  },
+  {
+    "": 229,
+    "cod": 1,
+    "nome": "N",
+    "período": 2009,
+    "valor": 72,
+    "classe": "MNN",
+    "taxa": 3.766
+  },
+  {
+    "": 230,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2010,
+    "valor": 727,
+    "classe": "MNN",
+    "taxa": 2.9
+  },
+  {
+    "": 231,
+    "cod": 1,
+    "nome": "N",
+    "período": 2010,
+    "valor": 56,
+    "classe": "MNN",
+    "taxa": 2.799
+  },
+  {
+    "": 232,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2010,
+    "valor": 122,
+    "classe": "MNN",
+    "taxa": 3.826
+  },
+  {
+    "": 233,
+    "cod": 4,
+    "nome": "S",
+    "período": 2010,
+    "valor": 562,
+    "classe": "MNN",
+    "taxa": 4.752
+  },
+  {
+    "": 234,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2010,
+    "valor": 159,
+    "classe": "MNN",
+    "taxa": 1.921
+  },
+  {
+    "": 235,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2011,
+    "valor": 154,
+    "classe": "MNN",
+    "taxa": 1.822
+  },
+  {
+    "": 236,
+    "cod": 1,
+    "nome": "N",
+    "período": 2011,
+    "valor": 75,
+    "classe": "MNN",
+    "taxa": 3.588
+  },
+  {
+    "": 237,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2011,
+    "valor": 148,
+    "classe": "MNN",
+    "taxa": 4.45
+  },
+  {
+    "": 238,
+    "cod": 4,
+    "nome": "S",
+    "período": 2011,
+    "valor": 468,
+    "classe": "MNN",
+    "taxa": 3.935
+  },
+  {
+    "": 239,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2011,
+    "valor": 712,
+    "classe": "MNN",
+    "taxa": 2.833
+  },
+  {
+    "": 240,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2012,
+    "valor": 155,
+    "classe": "MNN",
+    "taxa": 1.935
+  },
+  {
+    "": 241,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2012,
+    "valor": 660,
+    "classe": "MNN",
+    "taxa": 2.689
+  },
+  {
+    "": 242,
+    "cod": 1,
+    "nome": "N",
+    "período": 2012,
+    "valor": 90,
+    "classe": "MNN",
+    "taxa": 4.572
+  },
+  {
+    "": 243,
+    "cod": 4,
+    "nome": "S",
+    "período": 2012,
+    "valor": 535,
+    "classe": "MNN",
+    "taxa": 4.512
+  },
+  {
+    "": 244,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2012,
+    "valor": 145,
+    "classe": "MNN",
+    "taxa": 4.585
+  },
+  {
+    "": 245,
+    "cod": 4,
+    "nome": "S",
+    "período": 2013,
+    "valor": 478,
+    "classe": "MNN",
+    "taxa": 4.045
+  },
+  {
+    "": 246,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2013,
+    "valor": 719,
+    "classe": "MNN",
+    "taxa": 2.903
+  },
+  {
+    "": 247,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2013,
+    "valor": 140,
+    "classe": "MNN",
+    "taxa": 4.466
+  },
+  {
+    "": 248,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2013,
+    "valor": 194,
+    "classe": "MNN",
+    "taxa": 2.434
+  },
+  {
+    "": 249,
+    "cod": 1,
+    "nome": "N",
+    "período": 2013,
+    "valor": 110,
+    "classe": "MNN",
+    "taxa": 5.863
+  },
+  {
+    "": 250,
+    "cod": 4,
+    "nome": "S",
+    "período": 2014,
+    "valor": 502,
+    "classe": "MNN",
+    "taxa": 4.21
+  },
+  {
+    "": 251,
+    "cod": 1,
+    "nome": "N",
+    "período": 2014,
+    "valor": 74,
+    "classe": "MNN",
+    "taxa": 4.09
+  },
+  {
+    "": 252,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2014,
+    "valor": 701,
+    "classe": "MNN",
+    "taxa": 2.779
+  },
+  {
+    "": 253,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2014,
+    "valor": 163,
+    "classe": "MNN",
+    "taxa": 5.152
+  },
+  {
+    "": 254,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2014,
+    "valor": 180,
+    "classe": "MNN",
+    "taxa": 2.274
+  },
+  {
+    "": 255,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2015,
+    "valor": 662,
+    "classe": "MNN",
+    "taxa": 2.672
+  },
+  {
+    "": 256,
+    "cod": 1,
+    "nome": "N",
+    "período": 2015,
+    "valor": 84,
+    "classe": "MNN",
+    "taxa": 4.522
+  },
+  {
+    "": 257,
+    "cod": 4,
+    "nome": "S",
+    "período": 2015,
+    "valor": 495,
+    "classe": "MNN",
+    "taxa": 4.109
+  },
+  {
+    "": 258,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2015,
+    "valor": 139,
+    "classe": "MNN",
+    "taxa": 4.462
+  },
+  {
+    "": 259,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2015,
+    "valor": 159,
+    "classe": "MNN",
+    "taxa": 2.057
+  },
+  {
+    "": 260,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2016,
+    "valor": 584,
+    "classe": "MNN",
+    "taxa": 2.405
+  },
+  {
+    "": 261,
+    "cod": 4,
+    "nome": "S",
+    "período": 2016,
+    "valor": 520,
+    "classe": "MNN",
+    "taxa": 4.42
+  },
+  {
+    "": 262,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2016,
+    "valor": 125,
+    "classe": "MNN",
+    "taxa": 4.054
+  },
+  {
+    "": 263,
+    "cod": 1,
+    "nome": "N",
+    "período": 2016,
+    "valor": 84,
+    "classe": "MNN",
+    "taxa": 4.414
+  },
+  {
+    "": 264,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2016,
+    "valor": 175,
+    "classe": "MNN",
+    "taxa": 2.261
+  },
+  {
+    "": 265,
+    "cod": 1,
+    "nome": "N",
+    "período": 2017,
+    "valor": 88,
+    "classe": "MNN",
+    "taxa": 4.374
+  },
+  {
+    "": 266,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2017,
+    "valor": 121,
+    "classe": "MNN",
+    "taxa": 3.887
+  },
+  {
+    "": 267,
+    "cod": 4,
+    "nome": "S",
+    "período": 2017,
+    "valor": 531,
+    "classe": "MNN",
+    "taxa": 4.536
+  },
+  {
+    "": 268,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2017,
+    "valor": 199,
+    "classe": "MNN",
+    "taxa": 2.6
+  },
+  {
+    "": 269,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2017,
+    "valor": 605,
+    "classe": "MNN",
+    "taxa": 2.518
+  },
+  {
+    "": 270,
+    "cod": 4,
+    "nome": "S",
+    "período": 2000,
+    "valor": 628,
+    "classe": "HN",
+    "taxa": 34.26
+  },
+  {
+    "": 271,
+    "cod": 1,
+    "nome": "N",
+    "período": 2000,
+    "valor": 1647,
+    "classe": "HN",
+    "taxa": 51.14
+  },
+  {
+    "": 272,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2000,
+    "valor": 5999,
+    "classe": "HN",
+    "taxa": 35.08
+  },
+  {
+    "": 273,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2000,
+    "valor": 11782,
+    "classe": "HN",
+    "taxa": 94.36
+  },
+  {
+    "": 274,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2000,
+    "valor": 1839,
+    "classe": "HN",
+    "taxa": 56.21
+  },
+  {
+    "": 275,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2001,
+    "valor": 2005,
+    "classe": "HN",
+    "taxa": 58.6
+  },
+  {
+    "": 276,
+    "cod": 4,
+    "nome": "S",
+    "período": 2001,
+    "valor": 694,
+    "classe": "HN",
+    "taxa": 37.5
+  },
+  {
+    "": 277,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2001,
+    "valor": 12083,
+    "classe": "HN",
+    "taxa": 94.37
+  },
+  {
+    "": 278,
+    "cod": 1,
+    "nome": "N",
+    "período": 2001,
+    "valor": 1793,
+    "classe": "HN",
+    "taxa": 50.91
+  },
+  {
+    "": 279,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2001,
+    "valor": 7082,
+    "classe": "HN",
+    "taxa": 40.51
+  },
+  {
+    "": 280,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2002,
+    "valor": 12795,
+    "classe": "HN",
+    "taxa": 96.88
+  },
+  {
+    "": 281,
+    "cod": 1,
+    "nome": "N",
+    "período": 2002,
+    "valor": 2174,
+    "classe": "HN",
+    "taxa": 60.35
+  },
+  {
+    "": 282,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2002,
+    "valor": 2016,
+    "classe": "HN",
+    "taxa": 58.44
+  },
+  {
+    "": 283,
+    "cod": 4,
+    "nome": "S",
+    "período": 2002,
+    "valor": 740,
+    "classe": "HN",
+    "taxa": 37.7
+  },
+  {
+    "": 284,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2002,
+    "valor": 7521,
+    "classe": "HN",
+    "taxa": 42.79
+  },
+  {
+    "": 285,
+    "cod": 4,
+    "nome": "S",
+    "período": 2003,
+    "valor": 804,
+    "classe": "HN",
+    "taxa": 38.98
+  },
+  {
+    "": 286,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2003,
+    "valor": 2186,
+    "classe": "HN",
+    "taxa": 60.38
+  },
+  {
+    "": 287,
+    "cod": 1,
+    "nome": "N",
+    "período": 2003,
+    "valor": 2439,
+    "classe": "HN",
+    "taxa": 64.72
+  },
+  {
+    "": 288,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2003,
+    "valor": 8036,
+    "classe": "HN",
+    "taxa": 44.21
+  },
+  {
+    "": 289,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2003,
+    "valor": 13288,
+    "classe": "HN",
+    "taxa": 96.22
+  },
+  {
+    "": 290,
+    "cod": 4,
+    "nome": "S",
+    "período": 2004,
+    "valor": 945,
+    "classe": "HN",
+    "taxa": 46.34
+  },
+  {
+    "": 291,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2004,
+    "valor": 12515,
+    "classe": "HN",
+    "taxa": 88.45
+  },
+  {
+    "": 292,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2004,
+    "valor": 8054,
+    "classe": "HN",
+    "taxa": 44.67
+  },
+  {
+    "": 293,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2004,
+    "valor": 2222,
+    "classe": "HN",
+    "taxa": 61.07
+  },
+  {
+    "": 294,
+    "cod": 1,
+    "nome": "N",
+    "período": 2004,
+    "valor": 2455,
+    "classe": "HN",
+    "taxa": 44.21
+  },
+  {
+    "": 295,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2005,
+    "valor": 9113,
+    "classe": "HN",
+    "taxa": 49.67
+  },
+  {
+    "": 296,
+    "cod": 1,
+    "nome": "N",
+    "período": 2005,
+    "valor": 2887,
+    "classe": "HN",
+    "taxa": 51.87
+  },
+  {
+    "": 297,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2005,
+    "valor": 11441,
+    "classe": "HN",
+    "taxa": 74.83
+  },
+  {
+    "": 298,
+    "cod": 4,
+    "nome": "S",
+    "período": 2005,
+    "valor": 1062,
+    "classe": "HN",
+    "taxa": 47.2
+  },
+  {
+    "": 299,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2005,
+    "valor": 2334,
+    "classe": "HN",
+    "taxa": 63.65
+  },
+  {
+    "": 300,
+    "cod": 1,
+    "nome": "N",
+    "período": 2006,
+    "valor": 3191,
+    "classe": "HN",
+    "taxa": 55.28
+  },
+  {
+    "": 301,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2006,
+    "valor": 2469,
+    "classe": "HN",
+    "taxa": 64.71
+  },
+  {
+    "": 302,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2006,
+    "valor": 10580,
+    "classe": "HN",
+    "taxa": 56.87
+  },
+  {
+    "": 303,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2006,
+    "valor": 10988,
+    "classe": "HN",
+    "taxa": 72.25
+  },
+  {
+    "": 304,
+    "cod": 4,
+    "nome": "S",
+    "período": 2006,
+    "valor": 903,
+    "classe": "HN",
+    "taxa": 37.08
+  },
+  {
+    "": 305,
+    "cod": 1,
+    "nome": "N",
+    "período": 2007,
+    "valor": 3184,
+    "classe": "HN",
+    "taxa": 55.63
+  },
+  {
+    "": 306,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2007,
+    "valor": 9978,
+    "classe": "HN",
+    "taxa": 63.23
+  },
+  {
+    "": 307,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2007,
+    "valor": 11810,
+    "classe": "HN",
+    "taxa": 63.13
+  },
+  {
+    "": 308,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2007,
+    "valor": 2422,
+    "classe": "HN",
+    "taxa": 60.02
+  },
+  {
+    "": 309,
+    "cod": 4,
+    "nome": "S",
+    "período": 2007,
+    "valor": 1074,
+    "classe": "HN",
+    "taxa": 41.72
+  },
+  {
+    "": 310,
+    "cod": 4,
+    "nome": "S",
+    "período": 2008,
+    "valor": 1179,
+    "classe": "HN",
+    "taxa": 46.4
+  },
+  {
+    "": 311,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2008,
+    "valor": 9160,
+    "classe": "HN",
+    "taxa": 56.49
+  },
+  {
+    "": 312,
+    "cod": 1,
+    "nome": "N",
+    "período": 2008,
+    "valor": 3952,
+    "classe": "HN",
+    "taxa": 65.54
+  },
+  {
+    "": 313,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2008,
+    "valor": 2817,
+    "classe": "HN",
+    "taxa": 70.67
+  },
+  {
+    "": 314,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2008,
+    "valor": 13328,
+    "classe": "HN",
+    "taxa": 70.82
+  },
+  {
+    "": 315,
+    "cod": 4,
+    "nome": "S",
+    "período": 2009,
+    "valor": 1135,
+    "classe": "HN",
+    "taxa": 42.79
+  },
+  {
+    "": 316,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2009,
+    "valor": 13978,
+    "classe": "HN",
+    "taxa": 72.95
+  },
+  {
+    "": 317,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2009,
+    "valor": 3075,
+    "classe": "HN",
+    "taxa": 76
+  },
+  {
+    "": 318,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2009,
+    "valor": 9098,
+    "classe": "HN",
+    "taxa": 54.83
+  },
+  {
+    "": 319,
+    "cod": 1,
+    "nome": "N",
+    "período": 2009,
+    "valor": 4211,
+    "classe": "HN",
+    "taxa": 69.34
+  },
+  {
+    "": 320,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2010,
+    "valor": 9130,
+    "classe": "HN",
+    "taxa": 53.82
+  },
+  {
+    "": 321,
+    "cod": 1,
+    "nome": "N",
+    "período": 2010,
+    "valor": 4899,
+    "classe": "HN",
+    "taxa": 80.24
+  },
+  {
+    "": 322,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2010,
+    "valor": 3036,
+    "classe": "HN",
+    "taxa": 74.39
+  },
+  {
+    "": 323,
+    "cod": 4,
+    "nome": "S",
+    "período": 2010,
+    "valor": 1131,
+    "classe": "HN",
+    "taxa": 41.39
+  },
+  {
+    "": 324,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2010,
+    "valor": 14659,
+    "classe": "HN",
+    "taxa": 76.43
+  },
+  {
+    "": 325,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2011,
+    "valor": 14916,
+    "classe": "HN",
+    "taxa": 77.7
+  },
+  {
+    "": 326,
+    "cod": 1,
+    "nome": "N",
+    "período": 2011,
+    "valor": 4552,
+    "classe": "HN",
+    "taxa": 74.16
+  },
+  {
+    "": 327,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2011,
+    "valor": 3315,
+    "classe": "HN",
+    "taxa": 80.53
+  },
+  {
+    "": 328,
+    "cod": 4,
+    "nome": "S",
+    "período": 2011,
+    "valor": 1149,
+    "classe": "HN",
+    "taxa": 40.85
+  },
+  {
+    "": 329,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2011,
+    "valor": 8953,
+    "classe": "HN",
+    "taxa": 51.64
+  },
+  {
+    "": 330,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2012,
+    "valor": 16009,
+    "classe": "HN",
+    "taxa": 80.95
+  },
+  {
+    "": 331,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2012,
+    "valor": 9727,
+    "classe": "HN",
+    "taxa": 53.3
+  },
+  {
+    "": 332,
+    "cod": 1,
+    "nome": "N",
+    "período": 2012,
+    "valor": 4886,
+    "classe": "HN",
+    "taxa": 76.06
+  },
+  {
+    "": 333,
+    "cod": 4,
+    "nome": "S",
+    "período": 2012,
+    "valor": 1321,
+    "classe": "HN",
+    "taxa": 44.52
+  },
+  {
+    "": 334,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2012,
+    "valor": 3882,
+    "classe": "HN",
+    "taxa": 88.66
+  },
+  {
+    "": 335,
+    "cod": 4,
+    "nome": "S",
+    "período": 2013,
+    "valor": 1095,
+    "classe": "HN",
+    "taxa": 36.08
+  },
+  {
+    "": 336,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2013,
+    "valor": 9964,
+    "classe": "HN",
+    "taxa": 53.5
+  },
+  {
+    "": 337,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2013,
+    "valor": 3915,
+    "classe": "HN",
+    "taxa": 87.8
+  },
+  {
+    "": 338,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2013,
+    "valor": 16533,
+    "classe": "HN",
+    "taxa": 80.95
+  },
+  {
+    "": 339,
+    "cod": 1,
+    "nome": "N",
+    "período": 2013,
+    "valor": 4758,
+    "classe": "HN",
+    "taxa": 71.67
+  },
+  {
+    "": 340,
+    "cod": 4,
+    "nome": "S",
+    "período": 2014,
+    "valor": 1256,
+    "classe": "HN",
+    "taxa": 41.72
+  },
+  {
+    "": 341,
+    "cod": 1,
+    "nome": "N",
+    "período": 2014,
+    "valor": 5070,
+    "classe": "HN",
+    "taxa": 74.33
+  },
+  {
+    "": 342,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2014,
+    "valor": 10637,
+    "classe": "HN",
+    "taxa": 57.11
+  },
+  {
+    "": 343,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2014,
+    "valor": 3984,
+    "classe": "HN",
+    "taxa": 88.5
+  },
+  {
+    "": 344,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2014,
+    "valor": 17991,
+    "classe": "HN",
+    "taxa": 89.07
+  },
+  {
+    "": 345,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2015,
+    "valor": 9713,
+    "classe": "HN",
+    "taxa": 50.63
+  },
+  {
+    "": 346,
+    "cod": 1,
+    "nome": "N",
+    "período": 2015,
+    "valor": 5677,
+    "classe": "HN",
+    "taxa": 82.49
+  },
+  {
+    "": 347,
+    "cod": 4,
+    "nome": "S",
+    "período": 2015,
+    "valor": 1397,
+    "classe": "HN",
+    "taxa": 45.29
+  },
+  {
+    "": 348,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2015,
+    "valor": 3848,
+    "classe": "HN",
+    "taxa": 83.23
+  },
+  {
+    "": 349,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2015,
+    "valor": 18045,
+    "classe": "HN",
+    "taxa": 88.41
+  },
+  {
+    "": 350,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2016,
+    "valor": 10135,
+    "classe": "HN",
+    "taxa": 51.16
+  },
+  {
+    "": 351,
+    "cod": 4,
+    "nome": "S",
+    "período": 2016,
+    "valor": 1539,
+    "classe": "HN",
+    "taxa": 46.9
+  },
+  {
+    "": 352,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2016,
+    "valor": 3951,
+    "classe": "HN",
+    "taxa": 82.38
+  },
+  {
+    "": 353,
+    "cod": 1,
+    "nome": "N",
+    "período": 2016,
+    "valor": 6517,
+    "classe": "HN",
+    "taxa": 92.98
+  },
+  {
+    "": 354,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2016,
+    "valor": 20212,
+    "classe": "HN",
+    "taxa": 97.68
+  },
+  {
+    "": 355,
+    "cod": 1,
+    "nome": "N",
+    "período": 2017,
+    "valor": 6941,
+    "classe": "HN",
+    "taxa": 99.39
+  },
+  {
+    "": 356,
+    "cod": 5,
+    "nome": "CO",
+    "período": 2017,
+    "valor": 3711,
+    "classe": "HN",
+    "taxa": 76.24
+  },
+  {
+    "": 357,
+    "cod": 4,
+    "nome": "S",
+    "período": 2017,
+    "valor": 1666,
+    "classe": "HN",
+    "taxa": 47.19
+  },
+  {
+    "": 358,
+    "cod": 2,
+    "nome": "NE",
+    "período": 2017,
+    "valor": 23536,
+    "classe": "HN",
+    "taxa": 113.8
+  },
+  {
+    "": 359,
+    "cod": 3,
+    "nome": "SE",
+    "período": 2017,
+    "valor": 10363,
+    "classe": "HN",
+    "taxa": 51.1
+  }
+]
